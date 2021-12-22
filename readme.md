@@ -20,11 +20,10 @@ Postgraduate student studying software development at the University of Strathcl
 |`Frontend Programming Languages`|
 | --- | 
 | Javascript | 
-| Express |
 | React |
 | Redux | 
 | CSS | 
-| LESS | 
+| Tailwind | 
 
 |`Backend`|
 | --- | 
