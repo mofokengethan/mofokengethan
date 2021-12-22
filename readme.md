@@ -1,6 +1,6 @@
 # Frontend Developer
 
-I enjoy web development 💻
+Postgraduate student studying software development at the University of Strathclyde. I enjoy web development - it's really fun. 
 
 ## About Me 
 
@@ -61,12 +61,16 @@ I enjoy web development 💻
 
 |`Optimization`|
 | --- | 
-| GCP Analytics | 
-| GCP Optimize | 
+| Google Analytics | 
+| Google Optimize | 
 | SEO |
 
-|`Containerization`|  
+|`Other`|  
 | --- |
-| Linux command line | 
-| Docker | 
-| Docker Compose |
+| Linux Command Line | 
+| Containerization | 
+| Project Management Methologies |
+
+## Projects
+
+Here are some of my "featured" projects
