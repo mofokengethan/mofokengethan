@@ -22,6 +22,7 @@ Postgraduate student studying software development at the University of Strathcl
 | Javascript | 
 | React |
 | Redux | 
+| Html |
 | CSS | 
 | Tailwind | 
 
