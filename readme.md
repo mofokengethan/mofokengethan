@@ -13,7 +13,7 @@ Postgraduate student studying software development at the University of Strathcl
 7. ) Runner
 8. ) Car Enthusiasts
 9. ) Entertainment Critic
-10. ) Wizard
+10. ) Wizard @ Hogwartz 
 
 ## Technology
 
